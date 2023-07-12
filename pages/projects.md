@@ -1,8 +1,8 @@
 ---
 layout: category
 title: Projects
-category: project
-permalink: /project
+category: projects
+permalink: /projects
 
 ---
 Posted projects will be here
