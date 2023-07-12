@@ -16,8 +16,8 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link:  'https://www.linkedin.com/in/milagros-cortez-91074020a'}
-- {icon: 'linkedin', link:   'https://github.com/MiliC01'}
+- {icon: 'github', link:  'https://github.com/MiliC01'}
+- {icon: 'linkedin', link:   'https://www.linkedin.com/in/milagros-cortez-91074020a'}
 - {icon: 'instagram', link:  'https://instagram.com/milic1029'}
 - {icon: 'envelope', link:   'mailto:milicortez2445@gmail.com'}
 
