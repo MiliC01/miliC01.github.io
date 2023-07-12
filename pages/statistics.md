@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Statistics
+title: statistics
 category: statistics
 permalink: /statistics
 ---
