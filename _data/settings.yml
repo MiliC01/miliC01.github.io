@@ -11,8 +11,6 @@ menu:
 - {name: 'Projects', url: 'projects'}
 - {name: 'Statistics', url: 'statsitics'}
 - {name: 'CV', url: 'cv'}
-- {name: 'Documentation', url: 'documentation'}
-- {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
