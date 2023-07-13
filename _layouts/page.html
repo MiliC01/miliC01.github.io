@@ -14,12 +14,10 @@ layout: default
   <article>
     {{ content }}
   </article>
-  <div class="listed-content">
-    <ul>
-      {{page.interests}}
-    </ul>
-    <ul>
-      {{page.education}}
-    </ul>
-  </div>
+  <ul style="list-style-type:disc">
+    <li>{{page.interests}}</li>
+  </ul>
+  <ul style="list-style-type:disc">
+    <li>{{page.education}}</li>
+  </ul>
 </div>
