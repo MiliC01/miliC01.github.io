@@ -9,11 +9,11 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
-  width: 50%;
+  max-width: 800px;
 }
 
 .list-content{
-  width: 200px;
+  width: 50%;
   margin: 10px;
 }
 
