@@ -9,6 +9,7 @@ listed:
 - Data Visualization
 - Data Cleaning
 link: "Bike-Share Case Study Report.pdf"
+type: "PDF"
 ---
 ## Abstract
 
