@@ -4,6 +4,7 @@ title: "Bike-Share Case Study Report"
 author: "Milagros N. Cortez"
 categories: projects
 tags: [R, Data Visualization, Data Cleaning]
+image: "Screenshot (710).png"
 listed:
 - R
 - Data Visualization
