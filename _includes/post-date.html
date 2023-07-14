@@ -8,7 +8,8 @@
     {% when '3' or '23' %}{{ d }}rd
     {% else %}{{ d }}th{% endcase %},
   {{ page.date | date: "%Y" }}
-  by
+  <br>
+  Written by
   {% if page.author %}
     {{ page.author }}
   {% else %}
