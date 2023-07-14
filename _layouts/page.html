@@ -15,11 +15,12 @@ layout: default
     {{ content }}
   </article>
   <h2>Interests</h2>
-  <ul style="list-style-type:disc">
+  {% for item in page.interests %}
+  <ul>
     <li>
-      {{page.interests}}
     </li>
   </ul>
+  {% endfor %}
   <h2>Education</h2>
   <ul style="list-style-type:disc">
     <li>{{page.education.courses.course.year}}
