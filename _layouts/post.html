@@ -17,6 +17,9 @@ layout: default
   <article>
     {{ content }}
   </article>
+  {% for tag in page.tags %}
+  <i>{{ tag }}</i>
+  {% endfor %}
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
   {% endif %}
