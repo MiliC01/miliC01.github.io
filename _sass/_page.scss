@@ -5,8 +5,14 @@
   padding: 0px 10px 10px;
 }
 
-.list-content {
-  display: inline-block;
+.list-content-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+}
+
+.list-content{
+  margin: 10px;
 }
 
 .featured-image img {
