@@ -1,5 +1,5 @@
 .site-header {
-  min-height: 60px;
+  min-height: 56px;
   width: $container-width;
   position: fixed;
   background-color: white;
@@ -9,11 +9,13 @@
 .site-header img {
   margin-left: 50%;
   transform: translateX(-50%);
+  float: left;
 }
+
 @media (max-width: $container-width) {
   .site-header {
     min-height: 56px;
-    width: 90vw;
+    width: 95vw;
     position: fixed;
     background-color: white;
     box-shadow: 0 5px 6px -6px #bbb;
