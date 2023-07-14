@@ -6,16 +6,15 @@
 }
 
 .list-content-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
+  display: table;
+  width: 100%;
   max-width: 800px;
 }
 
 .list-content{
-  display: block;
+  display: table-cell;
   width: 400px;
-  margin: 10px;
+  padding: 2rem;
 }
 
 .featured-image img {
