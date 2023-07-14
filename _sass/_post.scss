@@ -32,6 +32,9 @@
   padding: 1rem 1rem;
   border-radius: 25px;
 }
+.btn:hover {
+  background: #f0f0f0;
+}
 @media (max-width: $container-width) {
   .post-content {
     width: 60vw;
