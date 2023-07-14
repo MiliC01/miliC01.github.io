@@ -12,3 +12,7 @@ listed:
 link: "Stat 413 Assignment 2.pdf"
 type: "PDF"
 ---
+
+## About
+
+This document explores estimating the volume of a d-ball and computing the Bessel function using Monte Carlo sampling with uniform and beta distributions.
