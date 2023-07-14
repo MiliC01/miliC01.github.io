@@ -11,9 +11,14 @@
   max-width: 800px;
 }
 
-.list-content{
+.list-content-o {
   display: table-cell;
-  width: 400px;
+  width: 300px;
+  padding: 2rem;
+}
+.list-content-t {
+  display: table-cell;
+  width: 500px;
   padding: 2rem;
 }
 
