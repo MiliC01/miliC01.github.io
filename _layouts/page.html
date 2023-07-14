@@ -25,9 +25,8 @@ layout: default
   <h2>Education</h2>
   {% for item in page.education.courses %}
   <ul style="fa-ul">
-    <li>
-      <i class="fa fa-{{ item.icon }}">{{ item.course }}, {{ item.year }}
-      <span style="color: #808080">{{ item.institution }}, {{ item.country }}</span> </i>
+    <li class="fa fa-{{ item.icon }}">
+      <i>{{ item.course }}, {{ item.year }}<br><span style="color: #808080">{{ item.institution }}, {{ item.country }}</span></i>
     </li>
   </ul>
   {% endfor %}
