@@ -28,14 +28,16 @@
   border-radius: 25px;
 }
 .btn {
-  border: 1px solid #f0f0f0;
+  border: 2px solid #448787;
+  color: #448787;
   background-color: inherit;
   cursor: pointer;
   padding: 1rem 1rem;
   border-radius: 25px;
 }
 .btn:hover {
-  background: #f0f0f0;
+  background: #448787;
+  color: white;
 }
 @media (max-width: $container-width) {
   .post-content {
