@@ -18,11 +18,11 @@ layout: default
     {{ content }}
   </article>
   <div class="tag-buttons">
+    {% for item in page.listed %}
     <div class="tags">
-      {% for item in page.listed %}
       {{ item }}
-      {% endfor %}
     </div>
+    {% endfor %}
   </div>
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
