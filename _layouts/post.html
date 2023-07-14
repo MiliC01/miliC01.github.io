@@ -18,9 +18,9 @@ layout: default
     {{ content }}
   </article>
   <div class="tag-buttons">
-    <div class="tag">
+    <div class="tags">
       {% for tag in page.tags %}
-      <p>{{ tag }}</p>
+      {{ tag }}
       {% endfor %}
     </div>
   </div>
