@@ -21,10 +21,11 @@
 }
 .tags {
   display: inline-block;
-  border: 1px solid LightGray;
+  border: 1px solid #f0f0f0;
   padding: 1rem 1rem;
   vertical-align: middle;
-  background-color: LightGray;
+  background-color: #f0f0f0;
+  border-radius: 25px;
 }
 @media (max-width: $container-width) {
   .post-content {
