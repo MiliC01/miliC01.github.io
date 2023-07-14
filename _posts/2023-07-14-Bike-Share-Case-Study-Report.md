@@ -8,6 +8,7 @@ listed:
 - R
 - Data Visualization
 - Data Cleaning
+link: "Bike-Share Case Study Report.pdf"
 ---
 ## Abstract
 
