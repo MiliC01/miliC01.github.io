@@ -26,7 +26,7 @@ layout: default
   {% for item in page.education.courses %}
   <ul style="list-style-type:disc">
     <li>
-      <i>{{ item.course }}</i>
+      <i>{{ item.course }}, {{ item.year }}<br>{{ item.institution }}, {{ item.country }} </i>
     </li>
   </ul>
   {% endfor %}
