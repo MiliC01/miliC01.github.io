@@ -21,10 +21,10 @@
 }
 .tags {
   display: inline-block;
-  border: 1px solid grey;
+  border: 1px solid LightGray;
   padding: 1rem 1rem;
   vertical-align: middle;
-  background-color: #f5f5f0;
+  background-color: LightGray;
 }
 @media (max-width: $container-width) {
   .post-content {
