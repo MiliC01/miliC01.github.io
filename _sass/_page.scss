@@ -6,12 +6,14 @@
 }
 
 .list-content-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 100px;
   width: 50%;
 }
 
 .list-content{
-  float: left;
-  width: 50%;
+  margin: 10px;
 }
 
 .featured-image img {
