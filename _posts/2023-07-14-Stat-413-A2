@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Finding the Volume of a d-ball and Computing the Bessel Function"
+author: "Milagros N. Cortez"
+categories: statistics
+tags: [R, Monte Carlo Sampling, Beta Distribution]
+image: "Screenshot (711).png"
+listed:
+- R
+- Monte Carlo Sampling
+- Beta Distribution
+link: "Stat 413 Assignment 2.pdf"
+type: "PDF"
+---
