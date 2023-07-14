@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finding the Volume of a d-ball and Computing the Bessel Function"
+title: "Volume of a d-ball and Computing the Bessel Function"
 author: "Milagros N. Cortez"
 categories: statistics
 tags: [R, Monte Carlo Sampling, Beta Distribution]
