@@ -11,6 +11,7 @@ listed:
 - Data Cleaning
 link: "Bike-Share Case Study Report.pdf"
 type: "PDF"
+posted: "14/07/2023"
 ---
 ## Abstract
 
