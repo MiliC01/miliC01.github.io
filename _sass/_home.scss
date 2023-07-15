@@ -2,14 +2,10 @@
   height: 400px;
   margin: 5px 10px 10px;
   position: relative;
-}
-.bckgrnd{
-  background-image: url({{ site.github.url }}/assets/img/{{ post.image }});
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-    
 .featured-post h2 {
   bottom: 0;
   margin: 0;
