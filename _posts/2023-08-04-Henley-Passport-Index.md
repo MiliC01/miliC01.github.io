@@ -4,7 +4,6 @@ title: "2023 Henley Global Passport Index Dashboard"
 author: "Milagros N. Cortez"
 categories: projects
 tags: [Tableau, Data Visualization]
-image: "Dashboard 1.png"
 listed:
 - Tableau
 - Data Visualization
