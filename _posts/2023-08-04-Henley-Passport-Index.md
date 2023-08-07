@@ -15,4 +15,4 @@ updated: "07/08/2023"
 ---
 ## Abstract
 
-Using Tableau I created a dashboard and data visualization of the 2023 Henley Global Passport Index Ranking. The link for the data set used can be found here [http://henleyglobal.com/passport-index/ranking>], and the Tableau page of the dashboard can be found here [https://public.tableau.com/views/graph1_16878963874450/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link]
+Using Tableau I created a dashboard and data visualization of the 2023 Henley Global Passport Index Ranking. The link for the data set used can be found here [http://henleyglobal.com/passport-index/ranking], and the Tableau page of the dashboard can be found here [https://public.tableau.com/views/graph1_16878963874450/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link]
