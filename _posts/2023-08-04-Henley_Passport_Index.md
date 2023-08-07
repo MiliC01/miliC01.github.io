@@ -8,6 +8,7 @@ image: "Dashboard 1.jpg"
 listed:
 - Tableau
 - Data Visualization
+- Dashboard
 link: "Dashboard_Tableau.pdf"
 type: "PDF"
 updated: "07/08/2023"
