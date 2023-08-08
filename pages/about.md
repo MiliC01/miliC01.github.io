@@ -7,6 +7,7 @@ permalink: /about
 interests:
 - Genetic Statistics
 - Data Visualization
+- Non-linear Dynamics
 - Artificial Intelligence
 - Machine Learning
 
