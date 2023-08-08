@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 category: home
 permalink: /home
 title: Milagros N. Cortez (Mili)
@@ -12,4 +12,4 @@ listed:
 
 Hi, I'm Mili.
 
-I recently graduated with a BSc in Statistics and I am looking to work in data analysis. I am also intersted in learning data science, machine learning, and non-linear dynamics.
+I recently graduated with a BSc in Statistics and I am looking to work in data analysis. I am also interested in learning data science, machine learning, and non-linear dynamics.
