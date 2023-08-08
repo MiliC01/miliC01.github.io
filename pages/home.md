@@ -1,6 +1,7 @@
 ---
 layout: page
 category: home
+permalink: /home
 title: Milagros N. Cortez (Mili)
 
 listed:
