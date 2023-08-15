@@ -8,7 +8,7 @@ image:
 listed:
 -SQL
 -Data Cleaning
-- Data Analysis
+-Data Analysis
 link:
 type:
 updated: "15/08/2023"
