@@ -5,9 +5,9 @@ author: "Milagros N. Cortez"
 categories: projects
 tags: [SQL, Data Cleaning, Data Analysis]
 listed:
--Tableau
--Data Visualization
--Dashboard
+- Tableau
+- Data Visualization
+- Dashboard
 link: "https://github.com/MiliC01/SQL-Business-Analysis"
 type: "LINK"
 updated: "15/08/2023"
