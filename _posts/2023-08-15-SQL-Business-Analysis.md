@@ -4,13 +4,12 @@ title: "SQL Small Business Analysis"
 author: "Milagros N. Cortez"
 categories: projects
 tags: [SQL, Data Cleaning, Data Analysis]
-image:
 listed:
 -SQL
 -Data Cleaning
 -Data Analysis
-link:
-type:
+link: "https://github.com/MiliC01/SQL-Business-Analysis"
+type: "LINK"
 updated: "15/08/2023"
 ---
 ## Abstract
