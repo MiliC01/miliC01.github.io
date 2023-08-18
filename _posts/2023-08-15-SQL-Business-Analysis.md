@@ -4,7 +4,6 @@ title: "SQL Small Business Analysis"
 author: "Milagros N. Cortez"
 categories: projects
 tags: [SQL, Data Cleaning, Data Analysis]
-image: "Screenshot (750).png"
 listed:
 - SQL
 - Data Cleaning
