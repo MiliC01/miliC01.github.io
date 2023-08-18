@@ -8,7 +8,7 @@ listed:
 - SQL
 - Data Cleaning
 - Data Analysis
-link: "https://github.com/MiliC01/SQL-Business-Analysis"
+link: https://github.com/MiliC01/SQL-Business-Analysis
 type: "LINK"
 updated: "15/08/2023"
 ---
