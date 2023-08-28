@@ -16,7 +16,7 @@ link: "Palmer_penguins_report.pdf"
 type: "PDF"
 updated: "12/08/2023"
 ---
-## Abstract
+## About
 
 In this report, we clean and analyze data from penguins in the Palmer Archipelago using Python. We also use a Generalized Linear Model and Generalized Additive Model to predict a penguin's sex based on culmen length, culmen depth, flipper length, body mass, and species, and we compare both models. 
 
@@ -27,4 +27,4 @@ Problems:
 Solutions: 
 - Variables we desired to analyze from the two separate data sets were merged into one data set  
 - Rows with NaN values were removed from the data set as well as rows with unknown values that were not listed as possible values or classifications for a variable.
-- Variables that involved dates were formatted and labelled as dates
+- Variables that involved dates were formatted and labeled as dates
