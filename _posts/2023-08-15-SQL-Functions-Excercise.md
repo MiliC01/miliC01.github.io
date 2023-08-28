@@ -13,8 +13,6 @@ type: "LINK"
 updated: "15/08/2023"
 ---
 ## About
-[link to the project](https://github.com/MiliC01/SQL-Business-Analysis)
-
 In this project, we use SQL to analyze data designed for business analysis which can be found in Kaggle under the name of [Business Analysis (junior)](https://www.kaggle.com/datasets/sticktogethertm/business-analysis-junior) uploaded by Igor Panteleev.
 The data set is in a .xlsx file and divided into two data sets named 2019 and 2020. 
 
