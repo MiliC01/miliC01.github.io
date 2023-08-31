@@ -23,7 +23,7 @@ updated: "14/07/2023"
 
 This case study is meant to be an exercise to explore and analyze data for a fictional bike-share company from Chicago called
 Cyclistic as part of the Google Data Analytics certificate. Using R to perform the analysis, we find differences between casual and
-annual members' ride duration time, location, ride preference, and days of use.
+annual members' ride duration time, location, ride preference, and days of use. A PDF file of the report can be found by clicking the button above, and the raw data can be found by clicking [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 ## Process
 
