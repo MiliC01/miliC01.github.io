@@ -27,7 +27,7 @@ annual members' ride duration time, location, ride preference, and days of use.
 
 ## Process
 
-For this project, we use R as the main program for analysis and data visualization. We start the project by looking at the data and metrics of the project. We then combine the data into one data set and clean it taking out rows with null values and specifying variables like time to be recognized by the program. Following the data-cleaning process, we ask the following questions:
+For this project, we use R as the main program for analysis and data visualization. We start the project by looking at the data and metrics of the project, then we combine the data into one data set and clean it taking out rows with null values and specifying variables like time to be recognized by the program. Following the data-cleaning process, we ask the following questions:
 - What is the overall distribution of ride time?
 - What are the ride time distributions for each customer type?
 - What is the customer volume for each day of the week, and what is the volume of each type for each day?
