@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing and Modeling"
 author: "Milagros N. Cortez"
 categories: statistics
-tags: [R, R Markdown, Robins Monro Algorithm, Gradient Functions, SRS, LRS, ELRS, Stochastic Optimization]
+tags: [R, R Markdown, Robins Monro Algorithm, Gradient Functions, SRS, LRS, ELRS, Stochastic Optimization, plotly, ggplot2]
 image: "Screenshot (712).jpg"
 listed:
 - R
@@ -14,6 +14,8 @@ listed:
 - LRS
 - ELRS
 - Stochastic Optimization
+- plotly
+- ggplot2
 link: "Stat 413 Assignment 3.pdf"
 type: "PDF"
 updated: "15/07/2023"
