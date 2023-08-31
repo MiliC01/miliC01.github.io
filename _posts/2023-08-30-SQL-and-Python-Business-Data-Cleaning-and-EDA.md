@@ -4,7 +4,7 @@ title: "SQL & Python Business Data Cleaning & EDA with Power BI Dashboard"
 author: "Milagros N. Cortez"
 categories: projects
 tags: [SQL, Python, Data Cleaning, Data Visualization, Pandas, Seaborn, MatPlotLib]
-image: "Screenshot (796).jpg"
+image: "Screenshot (796).png"
 listed:
 - SQL
 - Python
