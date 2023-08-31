@@ -3,12 +3,18 @@ layout: post
 title: "Bike-Share Case Study Report"
 author: "Milagros N. Cortez"
 categories: projects
-tags: [R, Data Visualization, Data Cleaning]
+tags: [R, R Markdown, Data Visualization, Data Cleaning, dplyr, egg, ggplot2, SF, lubridate]
 image: "Screenshot (710).jpg"
 listed:
 - R
+- R Markdown
 - Data Visualization
 - Data Cleaning
+- dplyr
+- egg
+- ggplot2
+- SF
+- lubridate
 link: "Bike-Share Case Study Report.pdf"
 type: "PDF"
 updated: "14/07/2023"
