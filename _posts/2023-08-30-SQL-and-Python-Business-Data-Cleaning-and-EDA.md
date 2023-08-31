@@ -30,6 +30,7 @@ In this project, we clean and do an exploratory data analysis (EDA) on sales dat
 ## Process
 
 We start by cleaning and doing our EDA in SQL. Given that the data has null values we use the TOP, DELETE, ORDER BY, AND, IS NULL functions to clean the data. Following this, we start our data analysis asking the following questions:
+
 1) Are there new clients in 2020?
 2) How much did the seller earn on new products in 2020?
 3) What is the average, minimum, and maximum delivery amount in 2019 and 2020?
