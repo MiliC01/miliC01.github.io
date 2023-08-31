@@ -3,7 +3,7 @@ layout: post
 title: "Palmer Archipelago Penguins Data Cleaning and Analysis"
 author: "Milagros N. Cortez"
 categories: projects
-tags: [Python, Data Visualization, Data Cleaning, Data Analysis, GLM, GAM]
+tags: [Python, Data Visualization, Data Cleaning, Data Analysis, GLM, GAM, NumPy, Pandas, Seaborn, MatPlotLib, SciPy, StatsModels, PyGam]
 image: "Screenshot (750).png"
 listed:
 - Python
@@ -12,6 +12,13 @@ listed:
 - Data Analysis
 - GLM
 - GAM
+- NumPy
+- Pandas
+- Seaborn
+- MatPlotLib
+- SciPy
+- StatsModels
+- PyGam
 link: "Palmer_penguins_report.pdf"
 type: "PDF"
 updated: "12/08/2023"
