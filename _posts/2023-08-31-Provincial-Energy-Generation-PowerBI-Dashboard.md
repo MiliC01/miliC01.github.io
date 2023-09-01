@@ -3,7 +3,7 @@ layout: post
 title: "Provincial Energy Generation in Canada from 2008 to 2022 Power BI Dashboard"
 author: "Milagros N. Cortez"
 categories: projects
-tags:[Microsoft Excel, DAX, Power BI]
+tags: [Microsoft Excel, DAX, Power BI]
 image: "Screenshot (800).png"
 listed:
 - Microsoft Excel
