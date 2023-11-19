@@ -2,6 +2,6 @@
 layout: cv
 title: CV
 category: cv
-resume: Milagros_N_Cortez_Resume_DA.pdf
+resume: Milagros_N_Cortez_Resume.pdf
 permalink: /cv
 ---
