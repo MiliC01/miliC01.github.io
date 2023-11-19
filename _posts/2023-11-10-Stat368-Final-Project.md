@@ -10,7 +10,7 @@ listed:
 - Latin Square Design
 link: "Stat_368_FinalReport.pdf"
 type: "PDF"
-updated: "14/07/2023"
+updated: "10/11/2023"
 ---
 
 ## About
